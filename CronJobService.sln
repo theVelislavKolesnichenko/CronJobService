@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CronJobService.Core", "CronJobService.Core\CronJobService.Core.csproj", "{CC11DAF3-3671-47BE-BF34-E1CE123DF5FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CronJobService.App", "CronJobService.App\CronJobService.App.csproj", "{59F42035-2DE2-4E8D-8C46-B7906CA80D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC11DAF3-3671-47BE-BF34-E1CE123DF5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC11DAF3-3671-47BE-BF34-E1CE123DF5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC11DAF3-3671-47BE-BF34-E1CE123DF5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC11DAF3-3671-47BE-BF34-E1CE123DF5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F42035-2DE2-4E8D-8C46-B7906CA80D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F42035-2DE2-4E8D-8C46-B7906CA80D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F42035-2DE2-4E8D-8C46-B7906CA80D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F42035-2DE2-4E8D-8C46-B7906CA80D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {982EE09C-F3A9-4E63-AD13-06C46CE56C7F}
+	EndGlobalSection
+EndGlobal
